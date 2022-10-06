@@ -5,5 +5,5 @@ class  pro():
       print(a)
   
   
-f=pro()  
-f.ran()
+# f=pro()  
+# f.ran()
