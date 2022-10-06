@@ -1,8 +1,8 @@
 import random
 class  pro3():
     def ran(self,b): 
-      b=random.random()
-      print(b)
+      a=random.random()
+      print(a)
   
   
 f=pro3()  
