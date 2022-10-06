@@ -5,5 +5,5 @@ class  pro3():
       print(b)
   
   
-f=Tolerence()  
+f=pro3()  
 f.ran()
