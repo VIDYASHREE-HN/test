@@ -1,9 +1,9 @@
 import random
-class  pro3():
+class  pro():
     def ran(self): 
       a=random.random()
       print(a)
   
   
-f=pro3()  
+f=pro()  
 f.ran()
