@@ -1,6 +1,6 @@
 import random
 class  pro3():
-    def ran(self,b):
+    def ran(self,b): 
       b=random.random()
       print(b)
   
